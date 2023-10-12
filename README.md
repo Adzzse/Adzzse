@@ -1,7 +1,7 @@
 ### Welcome
 #### Repo
 * Maven
-
+  ![JUnit test script](https://github.com/Adzzse/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.jpg)
 # About me
 
 This project is a template for a software project using both Java and C#. It aims to demonstrate how to integrate and work with these two popular programming languages in a single project.
