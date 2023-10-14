@@ -9,10 +9,10 @@ I'm Do Hoang Anh, this is my GitHub.
 - [Introduction](#introduction)
 - [Top Language](#top-language)
 - [Java Setup](#java-setup)
-- [C# Setup](#csharp-setup)
+- [Csharp Setup](#csharp-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ This project serves as a guide for developers proficient in Java and C# who want
 2. Set up the Java environment variables.
 3. Open the project using your preferred Java IDE.
 
-## C# Setup
+## Csharp Setup
 
 1. Install [Visual Studio](https://visualstudio.microsoft.com/), selecting the necessary workload for C# development.
 2. Open the project using Visual Studio or any C#-compatible editor.
@@ -47,11 +47,14 @@ Follow these steps to use the project:
 
 Contributions are welcome! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute to this project.
 
-## License
+## Contact
 
-This project is licensed under the [MIT License](LICENSE.md).
+You can find me at:
+- Email: hoanganhfof@gmail.com.
+- GitHub: [GitHub](https://github.com/Adzzse).
+- Facebook: [Facebook](https://www.facebook.com/Adzzse/).
 
-
+Thank you.
 
 <!---
 Adzzse/Adzzse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
