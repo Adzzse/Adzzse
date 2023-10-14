@@ -1,8 +1,8 @@
 # About me
 
 I'm Do Hoang Anh, this is my GitHub.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adzzse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adzzse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Table of Contents
 
