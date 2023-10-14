@@ -1,7 +1,3 @@
-/*### Welcome
-#### Repo
-* Maven
-  ![JUnit test script](https://github.com/Adzzse/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.jpg)*/
 # About me
 
 I'm Do Hoang Anh, this is my GitHub.
