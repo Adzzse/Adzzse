@@ -1,15 +1,17 @@
-### Welcome
+/*### Welcome
 #### Repo
 * Maven
-  ![JUnit test script](https://github.com/Adzzse/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.jpg)
+  ![JUnit test script](https://github.com/Adzzse/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.jpg)*/
 # About me
 
-This project is a template for a software project using both Java and C#. It aims to demonstrate how to integrate and work with these two popular programming languages in a single project.
+I'm Do Hoang Anh, this is my GitHub.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adzzse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
+- [Top Language](#top-language)
 - [Java Setup](#java-setup)
 - [C# Setup](#csharp-setup)
 - [Usage](#usage)
@@ -20,11 +22,10 @@ This project is a template for a software project using both Java and C#. It aim
 
 This project serves as a guide for developers proficient in Java and C# who want to create a project that leverages both languages effectively. It provides a starting point and best practices for integrating and using Java and C# within the same project.
 
-## Prerequisites
+## Top Language
 
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) installed
-- [Java IDE](https://www.jetbrains.com/idea/) (e.g., IntelliJ IDEA) or any Java-compatible editor
-- [Visual Studio](https://visualstudio.microsoft.com/) with C# support
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adzzse&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Java Setup
 
