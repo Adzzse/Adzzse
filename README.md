@@ -1,6 +1,7 @@
-# About me
-
-I'm Do Hoang Anh, this is my GitHub.
+<img src="https://github.com/adzzse/README/blob/main/Banner.svg"/>
+<p>A student at <a href="https://hcmuni.fpt.edu.vn">FPT HCMC University</a>, majoring in Software Development. 😊</br>
+Here is some of my progress:
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adzzse&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
