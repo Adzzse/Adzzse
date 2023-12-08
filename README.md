@@ -1,5 +1,5 @@
 <img src="https://github.com/adzzse/README/blob/main/Banner.svg"/>
-<p>A student at <a href="https://hcmuni.fpt.edu.vn">FPT HCMC University</a>, majoring in Software Development. 😊</br>
+<p>A student at <a href="https://hcmuni.fpt.edu.vn">FPT HCMC University</a>, majoring in Computer Science. 😊</br>
 Here is some of my progress:
 </p>
 
