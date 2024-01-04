@@ -10,14 +10,14 @@ Here is some of my progress:
 - [Introduction](#introduction)
 - [Top Language](#top-language)
 - [Java Setup](#java-setup)
-- [Csharp Setup](#csharp-setup)
+- [C# Setup](#csharp-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Introduction
 
-This project serves as a guide for developers proficient in Java and C# who want to create a project that leverages both languages effectively. It provides a starting point and best practices for integrating and using Java and C# within the same project.
+I'm learning about code. On the way to becoming a code ✨MASTER✨, I also create some impressive bugs. Here's how I started it:
 
 ## Top Language
 
@@ -26,6 +26,7 @@ This project serves as a guide for developers proficient in Java and C# who want
 
 ## Java Setup
 
+1. Download IDE: [Netbeans](https://netbeans.apache.org/front/main/), [IntelliJ IDEA](https://www.jetbrains.com/idea/),... or Source-code editor: [Visual Studio Code](https://code.visualstudio.com/)
 1. Install the Java JDK by following the instructions on the [official Oracle website](https://www.oracle.com/java/technologies/javase-downloads.html).
 2. Set up the Java environment variables.
 3. Open the project using your preferred Java IDE.
@@ -35,15 +36,6 @@ This project serves as a guide for developers proficient in Java and C# who want
 1. Install [Visual Studio](https://visualstudio.microsoft.com/), selecting the necessary workload for C# development.
 2. Open the project using Visual Studio or any C#-compatible editor.
 
-## Usage
-
-Follow these steps to use the project:
-
-1. Clone the repository: `git clone https://github.com/username/project.git`
-2. Set up the project for both Java and C# using the instructions provided in the [Java Setup](#java-setup) and [C# Setup](#csharp-setup) sections.
-3. Explore the project structure and study the integration points between Java and C#.
-4. Modify or extend the project based on your requirements.
-
 ## Contributing
 
 Contributions are welcome! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute to this project.
@@ -52,7 +44,7 @@ Contributions are welcome! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for m
 
 You can find me at:
 - Email: hoanganhfof@gmail.com.
-- GitHub: [GitHub](https://github.com/Adzzse).
+- GitHub: [GitHub](https://github.com/adzzse).
 - Facebook: [Facebook](https://www.facebook.com/Adzzse/).
 
 Thank you.
